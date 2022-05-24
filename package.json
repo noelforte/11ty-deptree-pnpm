@@ -1,0 +1,19 @@
+{
+  "name": "dependency-tree-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/dependency-tree": "^2.0.1",
+    "@11ty/eleventy": "^1.0.1",
+    "dayjs": "^1.11.2",
+    "markdown-it": "^13.0.1",
+    "sass": "^1.52.1"
+  }
+}
