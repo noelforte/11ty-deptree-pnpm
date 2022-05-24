@@ -4,5 +4,5 @@
 2. Install dependencies with `pnpm install`
 3. Run `node test.js`
 
-Expected output: an array of dependency names
+Expected output: `[ 'markdown-it', 'sass', 'dayjs' ]`
 Actual output: `['.pnpm']`
