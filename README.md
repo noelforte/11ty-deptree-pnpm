@@ -5,4 +5,5 @@
 3. Run `node test.js`
 
 Expected output: `[ 'markdown-it', 'sass', 'dayjs' ]`
+
 Actual output: `['.pnpm']`
